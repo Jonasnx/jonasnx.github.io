@@ -1,0 +1,13 @@
+PORTFÓLIO — JONAS CAVALCANTE
+
+Como visualizar:
+1. Extraia este ZIP.
+2. Abra a pasta portfolio_jonas_site.
+3. Dê dois cliques em index.html para abrir no navegador.
+
+As quatro imagens de projeto são ilustrações conceituais geradas para compor o visual do portfólio. Elas não representam capturas reais nem comprovam funcionalidades concluídas. Atualize-as por screenshots reais quando os projetos estiverem prontos.
+
+Para publicar gratuitamente:
+- Envie todos os arquivos desta pasta para o repositório jonasnx.github.io.
+- Ative GitHub Pages nas configurações do repositório.
+- Confira os links, tecnologias e descrições antes de compartilhar.
